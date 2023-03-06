@@ -56,7 +56,7 @@
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
-- [**Call of Duty®: Modern Warfare - Tournament Ready**](https://drive.google.com/file/d/13Kyv_HvRTzm3w7kK9Xg74L9BposViLKg/view?usp=sharing)
+- [**Call of Duty®: Modern Warfare - Tournament Ready**](https://drive.google.com/file/d/13Kyv_HvRTzm3w7kK9Xg74L9BposViLKg/view?usp=sharing) | [**Warzone 1.0**](https://drive.google.com/file/d/16yteKzNAsUChjWgV6MYUoxBcurTPAZcc/view?usp=sharing)
   - **Audio settings:**
     - Ensure that the Home Theater or Boost High audio mix within the audio settings of Call of Duty®: Modern Warfare is enabled for the recommended experience.
     - **Best experienced with Dolby® Atmos.**
@@ -73,7 +73,7 @@
     - A50 Wireless (Gen 4)
     - **This EQ is exclusive for Gen 4 devices.**
 - [**Call of Duty®: Vanguard - Blood 'n Soil**](https://drive.google.com/file/d/1vtAnKVy26v5JEe6pp26F1sGFGlqFBvIE/view?usp=sharing)
-  - **Audio Settings**
+  - **Audio Settings:**
     - Ensure that the Headphones audio mix within the audio settings of Call of Duty®: Vanguard is enabled.
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
@@ -81,49 +81,49 @@
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Destiny 2 - Hive Sense**](https://drive.google.com/file/d/17YZtQIz13DGrbbZo0-F41zOtfHcDNxio/view?usp=sharing)
-  - **Audio settings**
+  - **Audio settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Escape from Tarkov - S.L.L.K**](https://drive.google.com/file/d/1_-K7NU2sj8YIGm1bYgYb6sfkzi_9dZ36/view?usp=sharing)
-  - **Audio settings**
+  - **Audio settings:**
     - **Best experienced with Dolby® Atmos. Disable Binaural Audio in the game sound settings if using Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience** 
 - [**Halo Infinite - I.R.I.S**](https://drive.google.com/file/d/1AOTz3iFD0jMQSnljCv8nTApkKQF1MjE2/view?usp=sharing)
-  - **Audio settings**
+  - **Audio settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Halo MCC - Forward Assist**](https://drive.google.com/file/d/1Xx9gaoEbPwEAPsGqaqH1YU2SRm370jJ_/view?usp=sharing)
-  - **Audio settings**
+  - **Audio settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Hell Let Loose - Song of the Reaper**](https://drive.google.com/file/d/1TH37gWwTgC87esNXngVKfoXdaVjpA7dA/view?usp=sharing)
-  - **Audio settings**
+  - **Audio settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Insurgency: Sandstorm - Danger Close!**](https://drive.google.com/file/d/1oFcvz7Ay2y1HatGJo0ckqtf_vuI44JkZ/view?usp=sharing)
-  - **Audio settings**
+  - **Audio settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Ready or Not - Stack Up!**](https://drive.google.com/file/d/1-ejE4ch68FWUoIYHKd6xhJEAUOarXKgE/view?usp=sharing)
-  - **Audio settings**
+  - **Audio settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
@@ -135,7 +135,7 @@
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Tom Clancy's Rainbow Six® Siege - Tournament Ready**](https://drive.google.com/file/d/1NF9YjjRF-g_qBs2jOUdKlH6Wl5x8gDoq/view?usp=sharing)
-  - **Audio settings**
+  - **Audio settings:**
     - Ensure that the HiFi audio mix within the audio settings of Tom Clancy's Rainbow Six® Siege is enabled.
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
